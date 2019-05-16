@@ -1,0 +1,2 @@
+﻿@inherits RazorOutsideOfMvc.ConsoleTest.MyTemplate
+Hello @Model.Name, welcome to Razor World!

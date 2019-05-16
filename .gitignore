@@ -1,0 +1,8 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/RazorOutsideOfMvc/RazorOutsideOfMvc.ConsoleTest/bin/Debug/netcoreapp3.0
+/RazorOutsideOfMvc/RazorOutsideOfMvc.ConsoleTest/obj
+/RazorOutsideOfMvc/.vs/RazorOutsideOfMvc
