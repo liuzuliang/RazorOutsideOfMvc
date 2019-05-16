@@ -1,2 +1,3 @@
-﻿@inherits RazorOutsideOfMvc.ConsoleTest.MyTemplate
+﻿@using RazorOutsideOfMvc.ConsoleTest.Boots
+@inherits MyTemplate
 Hello @Model.Name, welcome to Razor World!
